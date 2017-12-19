@@ -1,0 +1,13 @@
+C:\Users\SHTT\source\repos\ReadNSFC\ReadNSFC\bin\Debug\ReadNSFC.exe.config
+C:\Users\SHTT\source\repos\ReadNSFC\ReadNSFC\bin\Debug\ReadNSFC.exe
+C:\Users\SHTT\source\repos\ReadNSFC\ReadNSFC\bin\Debug\ReadNSFC.pdb
+C:\Users\SHTT\source\repos\ReadNSFC\ReadNSFC\obj\Debug\ReadNSFC.csprojResolveAssemblyReference.cache
+C:\Users\SHTT\source\repos\ReadNSFC\ReadNSFC\obj\Debug\Interop.Domino.dll
+C:\Users\SHTT\source\repos\ReadNSFC\ReadNSFC\obj\Debug\Interop.lotus.dll
+C:\Users\SHTT\source\repos\ReadNSFC\ReadNSFC\obj\Debug\ReadNSFC.csproj.ResolveComReference.cache
+C:\Users\SHTT\source\repos\ReadNSFC\ReadNSFC\obj\Debug\ReadNSFC.csproj.CoreCompileInputs.cache
+C:\Users\SHTT\source\repos\ReadNSFC\ReadNSFC\obj\Debug\ReadNSFC.exe
+C:\Users\SHTT\source\repos\ReadNSFC\ReadNSFC\obj\Debug\ReadNSFC.pdb
+C:\Users\SHTT\source\repos\ReadNSFC\ReadNSFC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SHTT\source\repos\ReadNSFC\ReadNSFC\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\SHTT\source\repos\ReadNSFC\ReadNSFC\bin\Debug\Newtonsoft.Json.xml

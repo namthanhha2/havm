@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ReadNSFC" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="type" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">content</Value>
+    </Setting>
+    <Setting Name="saveDirectory" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c:\lotus\</Value>
+    </Setting>
+    <Setting Name="path" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">d:\setup\lotus\domino\data\noip\cms_vn.nsf</Value>
+    </Setting>
+    <Setting Name="query" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SELECT (Form = "frmContentPageDetail" )</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
